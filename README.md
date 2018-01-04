@@ -5,14 +5,14 @@ This app is designed to give you complete information on how to make simple and 
 ## Demo
 
 <p align="center">
-  <img src="ss/0.png" height="500" alt="" />
-  <img src="ss/1.png" height="500" alt="" />
-  <img src="ss/2.png" height="500" alt="" />
+  <img src="ss/0.png" height="400" alt="" />
+  <img src="ss/1.png" height="400" alt="" />
+  <img src="ss/2.png" height="400" alt="" />
 </p>
 
 <p align="center">
-  <img src="ss/3.png" height="500" alt="" />
-  <img src="ss/4.png" height="500" alt="" />
+  <img src="ss/3.png" height="400" alt="" />
+  <img src="ss/4.png" height="400" alt="" />
 </p>
 
 
