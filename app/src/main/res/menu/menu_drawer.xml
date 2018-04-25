@@ -31,6 +31,12 @@
             android:id="@+id/drawer_setting"
             android:icon="@drawable/ic_settings"
             android:title="@string/drawer_setting" />
+
+
+        <!--<item-->
+            <!--android:id="@+id/drawer_request"-->
+            <!--android:icon="@drawable/ic_request"-->
+            <!--android:title="Request Recipe" />-->
     </group>
 
 </menu>
