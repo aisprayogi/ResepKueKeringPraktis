@@ -1,11 +1,16 @@
 # Resep Kue Kering Praktis
 
+<p align="center">
+  <img src="ss/landscape.png" alt="" />
+</p>
+
+
 This app is designed to give you complete information on how to make simple and delicious cookie recipes. To be eaten with family, whether in a special moments and other big days or for a snack while drinking tea and coffee. Find also the best recipes nastar, snow princess, peanut cake, kastengel, cat tongue, Lebaran pastry, pastries and many other processed variations
 
 ## Demo
 
 <p align="center">
-  <img src="ss/0.png" height="400" alt="" />
+  <img src="ss/splash.jpg" height="400" alt="" />
   <img src="ss/1.png" height="400" alt="" />
   <img src="ss/2.png" height="400" alt="" />
 </p>
