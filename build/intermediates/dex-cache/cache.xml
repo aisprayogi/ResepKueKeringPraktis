@@ -1,2 +1,299 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-26.0.0_e6ec2c7b253aa41086cbdb74d6bea199f646bd37.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-8.1.0_0b8a92c04fab92d11ec5dc2863d54fe36e0af13b.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-identity-8.1.0_35c714d17cb6404412704a95afe68f3c8aa8e061.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-maps-8.1.0_5ccb518cd2991a5027df99c5d2dcaf5e9b6e2026.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-26.0.0_0d17d5d0f0b8e94852e41f845ab6e3a18998c52f.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-nearby-8.1.0_7d708969c202a22d07fbe6aad8a501bbdd34b7a1.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-cast-8.1.0_c03fd7e21919a2aed7c243631333e622bc577e48.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-8.1.0_9e58c1048af473e482add3332c1391ac5fe3bc3a.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-26.0.0_76da912f63b5a149631427c03528d55cb2194add.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appindexing-8.1.0_0a5a8d0742fcdf8ad1ae444fddeb15aeed889bee.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="dd2e7a567260ca4e40c09ba330f4f2d318660554">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-transition-26.0.0_eced4a950c788375640baec1a68691828c283c13.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-8.1.0_2ed7f565d86670f55b71ebb9be59096de2807e02.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-26.0.0_1e02cb4d0dba2581541e01d986dca75434e78709.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-26.0.0_3a5d930cf5068e4e1e52b98dcb43796f9cde97dd.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-plus-8.1.0_b9e4653b547eb09cb65cfea7f25821343af4b83f.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/picasso-2.5.2_4ca18b79a93b7c6c710da907afde10d6654a4e59.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wallet-8.1.0_b03564b86443267efdfb23776f788d63c5064659.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-measurement-8.1.0_2700f31e8da853be2d02c4438159c322e03d726c.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appinvite-8.1.0_0c3ccb051bd3316207297734899808e42b7ca3ff.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-panorama-8.1.0_7b01a0c63c6c63e6be21e43237a0a872ee36ed6a.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-26.0.0_c5b368e5603bd7fd589d0298947444e18301db22.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-8.1.0_371829cbfb927424b7a9649974bd79d94dacd1e4.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/palette-v7/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="2f02ba4e10cb167c1f5526053047f520a5bcb68f">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-palette-v7-26.0.0_118ddce32eb7b9780660aa38dea017b0894efa11.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="6fdbd1bd6503815f2cef20a9a137005e5953aad1">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-26.0.0_43df11fb7333be2ae802f9c147c1efbe75a95842.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-26.0.0_8474982a6987483e732fc90ca23aba4304f82051.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-26.0.0_b7fa5bd7787c6b2d7615bcc0bc385610429c1139.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0_099ed4a16fc295b448bcd4a1f4d7b6178c1f8da9.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-drive-8.1.0_5673652900043c0fb826514f23e9bc5ce1400f2a.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-26.0.0_a0efde9b59eecf40ee282f14cc8eabf4f28f0003.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-8.1.0_296f9c3c95014a5e90300557ee8dd102f53ae89e.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="d30ac0c26495d7264529e333cec806eec64dd6f3">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-design-26.0.0_043c2f54f78252d683454e27a0f372800bb7c8c5.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-26.0.0_c7b103022a5d22dda9814c084bb7f6509a18e5c3.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-location-8.1.0_38846ca7c02575be1e848326f6f5e946ca93b6a3.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-safetynet-8.1.0_5caab0c974deeeb6a9a8525fedd72f380f99bf39.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-multidex-1.0.1_e9fbdc5267367ac75b585aa2513fcd6adf914094.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.0/db09a97f4f0db8892c1a0111a4b966f97920d082/support-annotations-26.0.0.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/support-annotations-26.0.0_86ba00c1ce398997ad29902151c57841cb98e34c.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-8.1.0_ca8377477ceda4fcc3ca226e502c99c638af8849.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.android.support-mediarouter-v7-22.2.0_29f11366f1b75b91c625691d5257afecd873ee7d.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-games-8.1.0_3b5bc1b09ee1502052efb4bed3f14d784b822d66.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/libs/httpmime-4.2.1.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="c7349b04e5d76895fdfc0f38bdc0699e5f6fef5a">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/httpmime-4.2.1_25bb0427eb6fcaba9eb9f15c2d494741faf35b28.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-vision-8.1.0_442fa83c057d41dbdc246288a21644fd905e32b8.jar" />
+    </item>
+    <item
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-fitness-8.1.0_bd5062cb5264e79a56081d9ba4b4447218d7608a.jar" />
+    </item>
+
+</items>
