@@ -9,16 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e382d9eb-b225-4c49-8598-166503ec447c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout-sw480dp/welcome_slide1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout-sw480dp/welcome_slide2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout-sw480dp/welcome_slide3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout-sw480dp/welcome_slide4.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-    </list>
+    <list default="true" id="e382d9eb-b225-4c49-8598-166503ec447c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
