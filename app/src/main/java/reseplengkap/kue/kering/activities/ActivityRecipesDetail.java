@@ -28,10 +28,8 @@ import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
-import com.google.android.gms.analytics.GoogleAnalytics;
 import reseplengkap.kue.kering.Config;
 import reseplengkap.kue.kering.R;
-import reseplengkap.kue.kering.analytics.Analytics;
 import reseplengkap.kue.kering.cache.ImageLoader;
 import reseplengkap.kue.kering.json.JsonConfig;
 import reseplengkap.kue.kering.json.JsonUtils;
@@ -71,8 +69,6 @@ public class ActivityRecipesDetail extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.recipes_detail);
-
-        ((Analytics) getApplication()).getTracker();
 
         final Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
@@ -327,15 +323,11 @@ public class ActivityRecipesDetail extends AppCompatActivity {
     @Override
     public void onStart() {
         super.onStart();
-        // analytics
-        GoogleAnalytics.getInstance(this).reportActivityStart(this);
     }
 
     @Override
     public void onStop() {
         super.onStop();
-        // analytics
-        GoogleAnalytics.getInstance(this).reportActivityStop(this);
     }
 
     @Override
