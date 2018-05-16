@@ -6,7 +6,6 @@ import android.content.SharedPreferences;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.net.Uri;
-import android.os.AsyncTask;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.design.widget.NavigationView;
@@ -26,23 +25,20 @@ import android.view.View;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
-import com.google.android.gms.analytics.GoogleAnalytics;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesUtil;
-import com.google.android.gms.gcm.GoogleCloudMessaging;
 import reseplengkap.kue.kering.Config;
 import reseplengkap.kue.kering.R;
-import reseplengkap.kue.kering.analytics.Analytics;
 import reseplengkap.kue.kering.fragments.FragmentCategory;
 import reseplengkap.kue.kering.fragments.FragmentFavoriteRecipes;
 import reseplengkap.kue.kering.fragments.FragmentRecentRecipes;
 import reseplengkap.kue.kering.preferences.HttpTask;
 import reseplengkap.kue.kering.preferences.SettingsActivity;
+import reseplengkap.kue.kering.push.SettingPushActivity;
 
 import org.apache.http.NameValuePair;
 import org.apache.http.message.BasicNameValuePair;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -55,7 +51,6 @@ public class MainActivity extends AppCompatActivity {
     FragmentTransaction mFragmentTransaction;
     public static final String PROPERTY_REG_ID = "notifyId";
     private static final String PROPERTY_APP_VERSION = "appVersion";
-    GoogleCloudMessaging gcm;
     SharedPreferences preferences;
     String reg_cgm_id;
     static final String TAG = "MainActivity";
@@ -66,8 +61,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_main);
-
-        ((Analytics) getApplication()).getTracker();
 
         preferences = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
 
@@ -148,7 +141,7 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 if (menuItem.getItemId() == R.id.drawer_setting) {
-                    Intent i = new Intent(getBaseContext(), SettingsActivity.class);
+                    Intent i = new Intent(getBaseContext(), SettingPushActivity.class);
                     startActivity(i);
                 }
 
@@ -164,21 +157,9 @@ public class MainActivity extends AppCompatActivity {
 
         mDrawerToggle.syncState();
 
-        // init analytics tracker
-        ((Analytics) getApplication()).getTracker();
 
-        // GCM
-        if (checkPlayServices()) {
-            gcm = GoogleCloudMessaging.getInstance(getApplicationContext());
-            String reg_cgm_id = getRegistrationId(getApplicationContext());
-            Log.i(TAG, "Play Services Ok.");
-            if (reg_cgm_id.isEmpty()) {
-                Log.i(TAG, "Find Register ID.");
-                registerInBackground();
-            }
-        } else {
-            Log.i(TAG, "No valid Google Play Services APK found.");
-        }
+
+
     }
 
     @Override
@@ -216,15 +197,11 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onStart() {
         super.onStart();
-        // analytics
-        GoogleAnalytics.getInstance(this).reportActivityStart(this);
     }
 
     @Override
     public void onStop() {
         super.onStop();
-        // analytics
-        GoogleAnalytics.getInstance(this).reportActivityStop(this);
     }
 
     @Override
@@ -285,32 +262,32 @@ public class MainActivity extends AppCompatActivity {
         return registrationId;
     }
 
-    private void registerInBackground() {
-        new AsyncTask<Void, Void, String>() {
-            @Override
-            protected String doInBackground(Void... params) {
-                String msg = "";
-                try {
-                    if (gcm == null) {
-                        gcm = GoogleCloudMessaging.getInstance(MainActivity.this);
-                    }
-                    reg_cgm_id = gcm.register(getString(R.string.google_api_sender_id));
-                    msg = "Device registered, registration ID=" + reg_cgm_id;
-                    Log.d(TAG, "ID GCM: " + reg_cgm_id);
-                    sendRegistrationIdToBackend();
-                    storeRegistrationId(MainActivity.this, reg_cgm_id);
-
-                } catch (IOException ex) {
-                    msg = "Error :" + ex.getMessage();
-                }
-                return msg;
-            }
-
-            @Override
-            protected void onPostExecute(String msg) {
-            }
-        }.execute(null, null, null);
-    }
+//    private void registerInBackground() {
+//        new AsyncTask<Void, Void, String>() {
+//            @Override
+//            protected String doInBackground(Void... params) {
+//                String msg = "";
+//                try {
+//                    if (gcm == null) {
+//                        gcm = GoogleCloudMessaging.getInstance(MainActivity.this);
+//                    }
+//                    reg_cgm_id = gcm.register(getString(R.string.google_api_sender_id));
+//                    msg = "Device registered, registration ID=" + reg_cgm_id;
+//                    Log.d(TAG, "ID GCM: " + reg_cgm_id);
+//                    sendRegistrationIdToBackend();
+//                    storeRegistrationId(MainActivity.this, reg_cgm_id);
+//
+//                } catch (IOException ex) {
+//                    msg = "Error :" + ex.getMessage();
+//                }
+//                return msg;
+//            }
+//
+//            @Override
+//            protected void onPostExecute(String msg) {
+//            }
+//        }.execute(null, null, null);
+//    }
 
     private static int getAppVersion(Context context) {
         try {

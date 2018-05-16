@@ -192,6 +192,8 @@ public class SettingsActivity extends PreferenceActivity {
                 startActivity(new Intent(getActivity(), SettingsActivity.class));
                 return true;
             }
+
+          
             return super.onOptionsItemSelected(item);
         }
     }

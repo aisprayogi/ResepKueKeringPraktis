@@ -24,11 +24,10 @@ import android.widget.Toast;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
-import com.google.android.gms.analytics.GoogleAnalytics;
+//import com.google.android.gms.analytics.GoogleAnalytics;
 import reseplengkap.kue.kering.Config;
 import reseplengkap.kue.kering.R;
 import reseplengkap.kue.kering.adapters.AdapterRecipesByCategory;
-import reseplengkap.kue.kering.analytics.Analytics;
 import reseplengkap.kue.kering.json.JsonConfig;
 import reseplengkap.kue.kering.json.JsonUtils;
 import reseplengkap.kue.kering.models.ItemNewsList;
@@ -62,7 +61,6 @@ public class ActivityRecipesByCategory extends AppCompatActivity {
 
         setContentView(R.layout.recipes_list_by_category);
 
-        ((Analytics) getApplication()).getTracker();
 
         progressBar = (ProgressBar) findViewById(R.id.progressBar);
         swipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipeRefreshLayout);
@@ -442,14 +440,14 @@ public class ActivityRecipesByCategory extends AppCompatActivity {
     public void onStart() {
         super.onStart();
         // analytics
-        GoogleAnalytics.getInstance(this).reportActivityStart(this);
+       // GoogleAnalytics.getInstance(this).reportActivityStart(this);
     }
 
     @Override
     public void onStop() {
         super.onStop();
         // analytics
-        GoogleAnalytics.getInstance(this).reportActivityStop(this);
+      //  GoogleAnalytics.getInstance(this).reportActivityStop(this);
     }
 
     @Override
