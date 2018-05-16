@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/dbac6bb6a23a0257b59591c05b2dd798/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c1e9d140d3260619ce2fa991d30b14b531d61dec">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/64763ba7ddca810f367b4ab513d48085/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ecac68da0f045ab5f53e9ad9ab4069ce99fa24ec">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/design-27.0.1.aar/69ab35cf4d892093b156a6efaa7274c2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f25b1adab1e4b4f5cecb9dc6f19798afabcb177b">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/7c0f0a3edaa456a7934dcaca0e66173c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ff9f9e9d4812d6a9a7132ebda8bad77797387abb">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/c26f0fbddbd4d28874b3297124d722a6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d4f9ace23785adf79a174d569bde261f032e1190">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/67cf33f023286f4ced224731e4edcfeb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6db956f55089a8d067d7cab3f65aa2aba8b6396d">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-15.0.0.aar/f5e957b933e2fa061bc01fa4ea6fe368/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="df3356e822ce539e0f368fdfce3381d2fb896954">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/bd073b957a3ec97c203ff39abc6018c5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1efcd359c3e2009ea2398af967f56210599fb652">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/09dc3277d0fd7fc7274ef9d7a5cae93c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f8a80c9882b064f2943e10649a8d2b249f5bf176">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/palette-v7-27.0.1.aar/5508cdeb261a0b009012bcda45d67c57/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d85c9358125742759bdaed29e28fadd4f6a16290">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/b7a758120085f1fbab11d40cb8b6b5c9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="63413895dce50f6123807d1db2274a1982a34194">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/5ee4b96929ce902d80fe5c0320fdc28a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="37028eeb32233dad5092a550b7d32e22393515d1">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/54ba270254692c4300616f192199cbfc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b91045039cbf8fabb7989999578a13659eb1749f">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/57160295b1301727a5a72099a22a7fa8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a0fc13bb175be92930227157fa21e88657caa803">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/3377546b89e5ce57df1f8244e247ed1a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2ed83f4f10884d0a803ad4a3ebc18dad56fc4eab">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/4b8201d99fe8b7a0f15ea0c91a6131e5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ad50ad7e41dff89974582cd87e2543b8eb15f760">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/e21abb0abaeb849d15a51c3dd62a4bf8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="bd593fc702bfdb2111dc570d1cf48608db42bd37">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.1.aar/c7a268eb0e20371a9fa47cc9f3a451bd/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="925879273e627f34059466359ba6789cf61889e2">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/c606fa2ac2701773d2f224e7385fc704/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="722a72e3da5eb0825aace9981b13276d7823c313">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-15.0.1.aar/2156d34747d48787957f26b727094297/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d757f615613c93119776641df7c3537d63ac78f4">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/9a0159e54f6a39f4b529f8cd1cfd5810/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e7e3894213abc7e84f1d06a2fc2cc5703e7a7369">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/firebase-database-15.0.0.aar/36b5884b45a77f4a8c09863950cb1179/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="437e6c73e87a17ca95620af01ee87e106a468723">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/e946869894b1a0152a1850d9fadc862e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f10fed27d6d0b4aae675f17b33c639b4d5a0ed93">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/c14d4cb91aa89b0c6c8855a40027a30c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1643bb57f25843dc23e644c5de1f7939ebf967f9">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/27ad28065419cbdd31af374c0eb45a88/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="59cbbfb2937ebed98c8bb8882b7112d16358014e">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/8603b76e38af921eb1d0dcee2bd6eb93/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ac5e6ae168ef77f0b0b1e3245d7afd7d32f710c3">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/libs/httpmime-4.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c7349b04e5d76895fdfc0f38bdc0699e5f6fef5a">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ac9f5ac0caebd546034c0c45a225ad21/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/b88f8f51a55aae6d9e76f9328e91ebb2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="91dae39a5cc837ad2a829c0dc69c57ab8d69d22b">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1799b5c74cab7c5278d405a739a7756a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/7c7d5cbc768c6b7e52691cf577057500/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/bd22636a4bba0ca8f566cdfb3e13be97/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d928394035bd4f7d2ee9e1c63d45f9ec088e21a4">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/acb2d51998b4590c6922ccd465bbc5ba/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-15.0.0.aar/86b62f1cf0d0207cf27faf4eaaf9c300/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="000190624a676786e2025fc8393ca4fb0d79dddc">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/758f7c4257d65c6d85b5180c0fa0b329/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="69f7591c9ff9238ff226e264c0260bb9f1ce0029">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.1/287742f1c6cea6d9126670e9f031890b0462362a/support-annotations-27.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="287742f1c6cea6d9126670e9f031890b0462362a">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/edfd32392477c288de700bc9201a2196/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/462af5aa398570fabef8d5447a122a37/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="dc703c35f594398c269b79b0178c86744add9494">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/5d3898d43156083d06aa2fc6b1c9145d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="cbbd26dd2f6d46181b41a5f6f5e34889442a811b">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhood/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/d5bfc7d27e91a8ec04229576502899a9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="/Users/iqbalhood/Documents/UtopianProject/ResepKueKeringPraktis/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+
+</items>
