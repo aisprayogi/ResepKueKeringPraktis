@@ -12,9 +12,7 @@ import org.json.JSONObject;
 
 import reseplengkap.kue.kering.activities.ActivitySplash;
 
-/**
- * Created by Belal on 03/11/16.
- */
+
 
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
