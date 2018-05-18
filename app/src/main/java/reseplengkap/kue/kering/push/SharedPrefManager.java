@@ -3,10 +3,6 @@ package reseplengkap.kue.kering.push;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-/**
- * Created by Belal on 03/11/16.
- */
-
 public class SharedPrefManager {
     private static final String SHARED_PREF_NAME = "FCMSharedPref";
     private static final String TAG_TOKEN = "tagtoken";
