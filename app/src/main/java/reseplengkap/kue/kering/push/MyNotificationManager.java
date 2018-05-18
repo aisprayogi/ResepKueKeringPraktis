@@ -1,8 +1,5 @@
 package reseplengkap.kue.kering.push;
 
-/**
- * Created by Belal on 03/11/16.
- */
 
 import android.app.Notification;
 import android.app.NotificationManager;
