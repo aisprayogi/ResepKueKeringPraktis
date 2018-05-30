@@ -35,6 +35,7 @@ import reseplengkap.kue.kering.fragments.FragmentRecentRecipes;
 import reseplengkap.kue.kering.preferences.HttpTask;
 import reseplengkap.kue.kering.preferences.SettingsActivity;
 import reseplengkap.kue.kering.push.SettingPushActivity;
+import reseplengkap.kue.kering.submit.SubmitRecipeActivity;
 
 import org.apache.http.NameValuePair;
 import org.apache.http.message.BasicNameValuePair;
@@ -142,6 +143,11 @@ public class MainActivity extends AppCompatActivity {
 
                 if (menuItem.getItemId() == R.id.drawer_setting) {
                     Intent i = new Intent(getBaseContext(), SettingPushActivity.class);
+                    startActivity(i);
+                }
+
+                if (menuItem.getItemId() == R.id.drawer_submit) {
+                    Intent i = new Intent(getBaseContext(), SubmitRecipeActivity.class);
                     startActivity(i);
                 }
 

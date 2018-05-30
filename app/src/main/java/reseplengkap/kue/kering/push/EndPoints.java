@@ -1,8 +1,5 @@
 package reseplengkap.kue.kering.push;
 
-/**
- * Created by Belal on 04/11/16.
- */
 
 public class EndPoints {
     public static final String URL_REGISTER_DEVICE = "http://kue.codedojo.asia/FCM/RegisterDevice.php";

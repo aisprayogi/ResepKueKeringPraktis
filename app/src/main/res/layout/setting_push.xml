@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -9,12 +8,30 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin">
 
+    <ImageView
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/textMessage"
+        android:layout_width="@dimen/img_width_height"
+        android:layout_height="@dimen/img_width_height"
+        android:layout_marginBottom="20dp"
+        android:src="@mipmap/ic_launcher" />
+
+     <TextView
+         android:layout_above="@+id/editTextEmail"
+         android:layout_centerVertical="true"
+         android:id="@+id/textMessage"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginBottom="20dp"
+         android:text="Get Notification Via Email And Push Notification For The New Recipes"/>
+
     <EditText
         android:layout_above="@+id/buttonRegister"
         android:hint="Insert Your Email"
         android:id="@+id/editTextEmail"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"/>
 
     <Button
         android:layout_centerVertical="true"

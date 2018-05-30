@@ -5,9 +5,6 @@ import android.util.Log;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
 
-/**
- * Created by Belal on 03/11/16.
- */
 
 
 public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {

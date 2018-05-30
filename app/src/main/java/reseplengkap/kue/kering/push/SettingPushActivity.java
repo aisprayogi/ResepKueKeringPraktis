@@ -3,6 +3,7 @@ package reseplengkap.kue.kering.push;
 import android.app.ProgressDialog;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -30,7 +31,7 @@ import reseplengkap.kue.kering.R;
 
 import static reseplengkap.kue.kering.push.EndPoints.URL_REGISTER_DEVICE;
 
-public class SettingPushActivity extends AppCompatActivity implements View.OnClickListener {
+public class SettingPushActivity extends AppCompatActivity implements View.OnClickListener{
 
     //defining views
     private Button buttonRegister;
@@ -52,8 +53,15 @@ public class SettingPushActivity extends AppCompatActivity implements View.OnCli
         editTextEmail = (EditText) findViewById(R.id.editTextEmail);
         buttonRegister = (Button) findViewById(R.id.buttonRegister);
 
-        //adding listener to view
-        buttonRegister.setOnClickListener(this);
+//        //adding listener to view
+//        buttonRegister.setOnClickListener(this);
+        final android.support.v7.app.ActionBar actionBar = getSupportActionBar();
+        if (actionBar != null) {
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+            getSupportActionBar().setTitle("Setting Notification");
+        }
+
     }
 
     //storing token to mysql server
@@ -109,8 +117,19 @@ public class SettingPushActivity extends AppCompatActivity implements View.OnCli
         if (view == buttonRegister) {
             sendTokenToServer();
         }
-
-
     }
+
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        finish();
+        return true;
+    }
+
+
+
+
+
+
 
 }

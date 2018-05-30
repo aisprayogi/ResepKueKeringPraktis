@@ -31,6 +31,11 @@
             android:id="@+id/drawer_setting"
             android:icon="@drawable/ic_pref_notification"
             android:title="Get Notification" />
+
+        <item
+            android:id="@+id/drawer_submit"
+            android:icon="@drawable/ic_send_black_24dp"
+            android:title="Submit Your Recipe" />
     </group>
 
 </menu>
