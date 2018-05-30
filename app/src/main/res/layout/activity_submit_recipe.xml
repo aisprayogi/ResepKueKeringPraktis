@@ -70,7 +70,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="80dp"
             android:background="@color/ColorPrimaryDark"
-            android:onClick="submitRecipe"
+            android:id="@+id/btnSubmit"
             android:textColor="#fff"
             android:text="Submit Recipe"
             android:padding="10dp"
